@@ -1,7 +1,7 @@
-const ADMINS = [2039213861, 5171111457] // ID админов бота
+const ADMINS = [2039213861, 2039213861] // ID админов бота
 const DB_URL = "mongodb://c39199_mlbot_na4u_ru:CuQleCespozob49@mongo1.c39199.h2,mongo2.c39199.h2,mongo3.c39199.h2/c39199_mlbot_na4u_ru?replicaSet=MongoReplica" // URL базы бота
 const QIWI_TOKEN = "71fdf869d198a53049243fe35c1e44a2" // API ключ QIWI кошелька с полным доступом
-const BOT_TOKEN = "5126474214:AAHIk9CL0nBWNgDRsHBSelP1GAMiKgLsXcI" // Bot API Token
+const BOT_TOKEN = "5461991984:AAGimTOz2ubKZ6nlay7ULqWh-s0V7azVnn8" // Bot API Token
   
 oplata = 0
 
